@@ -3,7 +3,7 @@ Software for the paper "On the Space-Time Statistics of Motion Pictures" will be
 
 ## Motion and space-time regularity
 Software demo for motion estimation using space-time regularity is provided in [motion_estimation_demo](/motion_estimation_demo) directory. The folder contains MATLAB scripts and functions. Two main scripts to start you off are:  
-* example_scripts.m
+* example_scripts.m  
 	*dfdfd
 * generate_quiver_video.m  
 
